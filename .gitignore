@@ -1,0 +1,2 @@
+#node_modules配下を除外
+node_modules/

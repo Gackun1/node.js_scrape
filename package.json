@@ -1,0 +1,16 @@
+{
+  "name": "node_scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "npm install request jsdom",
+    "scrape": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdom": "^17.0.0",
+    "request": "^2.88.2"
+  }
+}
